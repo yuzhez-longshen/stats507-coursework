@@ -1,2 +1,2 @@
 # stats507-coursework
-Coursework and assignments for Stats 507.
+This repository contains coursework and assignments for Stats 507.
